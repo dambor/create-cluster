@@ -1,4 +1,3 @@
-The 'AWS_AMI_ID' variable is obsolete. The correct 'AWS_AMI_ID' is obtained from appropriate metadata file in '~/.tkg/bom' directory
 apiVersion: cluster.x-k8s.io/v1alpha3
 kind: Cluster
 metadata:
