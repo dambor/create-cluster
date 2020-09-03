@@ -148,7 +148,7 @@ metadata:
   namespace: default
 spec:
   clusterName: tatooine
-  replicas: 3
+  replicas: 2
   selector:
     matchLabels: null
   template:
